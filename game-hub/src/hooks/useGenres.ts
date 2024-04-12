@@ -1,4 +1,4 @@
-import useData from "./useData";
+//import useData from "./useData";
 import genres from "../data/generes"
 
 export interface Genre {
